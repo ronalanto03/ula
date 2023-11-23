@@ -48,34 +48,39 @@ Se recopiló y analizó datos de fuentes confiables y actuales, incluyendo anál
 - **Mercado y Tendencias**: Uso en desarrollo web alrededor del 5%, pero con muchas funcionalidades que faltan en otros lenguajes como PHP.
 
 ## Conclusiones y Recomendaciones
-Basándonos en nuestro análisis, ofrecemos recomendaciones específicas para la educación en ingeniería de sistemas, considerando las necesidades actuales y futuras del mercado y la industria.
+Tras un análisis exhaustivo, recomendamos enfáticamente Python como el lenguaje de programación principal para la educación en ingeniería de sistemas. Su alta demanda en áreas clave como ciencia de datos e inteligencia artificial, junto con su sintaxis amigable y amplia gama de aplicaciones, lo hacen ideal para estudiantes que buscan habilidades relevantes y transferibles en la industria tecnológica actual.
 
 
 ## Anexos
 
 ### Contenidos Recomendados para los Primeros Tres Semestres en Inteligencia Artificial
 
-El enfoque de estos contenidos está en brindar a los estudiantes una experiencia práctica y directa en el uso de herramientas y aplicaciones de inteligencia artificial, utilizando Python como lenguaje principal.
-
 #### Primer Semestre: Introducción a Python y Herramientas de IA
 
-- **Uso Básico de Python**: Aprendizaje práctico de Python para familiarizarse con la sintaxis y las estructuras de programación básicas.
-- **Introducción a las Bibliotecas de IA**: Uso de bibliotecas como scikit-learn para experimentar con algoritmos simples de aprendizaje automático.
-- **Proyectos Prácticos**: Implementación de proyectos pequeños, como sistemas de recomendación simples o clasificadores básicos, para entender cómo Python se aplica en IA.
+- **Uso Básico de Python**: Aprendizaje práctico de Python, enfocándose en la sintaxis y estructuras de programación.
+- **Introducción a las Bibliotecas de IA**: Experimentación con bibliotecas de IA como scikit-learn.
+- **Proyectos Prácticos**: Implementación de sistemas de recomendación o clasificadores básicos.
 
-#### Segundo Semestre: Exploración de Herramientas de IA y Aprendizaje Automático
+#### Segundo Semestre: Herramientas de IA y Aprendizaje Automático
 
-- **Trabajo con Conjuntos de Datos**: Aprender a manejar y preprocesar datos utilizando Pandas y NumPy.
-- **Uso de Herramientas de Visualización**: Introducción a herramientas como Matplotlib y Seaborn para visualizar datos y resultados de modelos de IA.
-- **Proyectos de Aprendizaje Automático**: Desarrollo de modelos de aprendizaje automático más complejos, como la regresión logística o árboles de decisión, para resolver problemas prácticos.
+- **Manejo de Datos con Pandas y NumPy**: Aprendizaje del preprocesamiento de datos.
+- **Visualización de Datos**: Uso de herramientas como Matplotlib y Seaborn.
+- **Modelos de Aprendizaje Automático**: Desarrollo de modelos como la regresión logística o árboles de decisión.
 
-#### Tercer Semestre: Aplicaciones Avanzadas y Proyectos de IA
+#### Tercer Semestre: Aplicaciones Avanzadas en IA
 
-- **Introducción a Redes Neuronales**: Uso de bibliotecas como TensorFlow o Keras para construir y entrenar redes neuronales básicas.
-- **Proyectos de IA en el Mundo Real**: Implementación de proyectos que aborden problemas del mundo real, como la detección de fraudes o el análisis de sentimientos en textos.
-- **Colaboración y Trabajo en Equipo**: Fomentar el trabajo en equipo para desarrollar proyectos de IA, preparando a los estudiantes para entornos colaborativos en el futuro.
+- **Redes Neuronales con TensorFlow o Keras**: Construcción y entrenamiento de redes neuronales.
+- **IA en Proyectos del Mundo Real**: Implementación de proyectos de IA aplicados a problemas reales.
+- **Trabajo Colaborativo**: Desarrollo de habilidades de trabajo en equipo en proyectos de IA.
 
-Estos contenidos están diseñados para proporcionar a los estudiantes una base sólida en habilidades prácticas de IA, utilizando Python como herramienta principal. La experiencia práctica adquirida en estos semestres será crucial para su éxito en campos avanzados de IA y tecnología.
+#### Uso de la Inteligencia Artificial como Ayudante en la Programación
+
+- **Herramientas de Asistencia en la Programación**: Introducción y uso práctico de herramientas basadas en IA como GitHub Copilot, Tabnine, ChatGPT, y Bing Copilot. Estas herramientas pueden ayudar a los estudiantes a escribir código más eficientemente, entender mejor los patrones de programación y resolver problemas comunes.
+- **Integración de Ayudantes de IA en el Flujo de Trabajo de Programación**: Aprender a integrar estas herramientas en el entorno de desarrollo para mejorar la productividad y la calidad del código.
+- **Evaluación Crítica de la Asistencia de IA**: Fomentar la comprensión crítica de las sugerencias proporcionadas por las herramientas de IA, enseñando a los estudiantes a evaluar y adaptar las recomendaciones a sus necesidades específicas.
+
+Esta inclusión refleja la importancia de familiarizarse con las herramientas de programación asistidas por IA desde el inicio de la carrera, permitiendo a los estudiantes aprovechar estas tecnologías para mejorar su aprendizaje y eficiencia en el desarrollo de software.
+
 
 #### Relevancia de Python en el Aprendizaje de Inteligencia Artificial
 Python es particularmente relevante para los estudiantes de ingeniería de sistemas que se adentran en la IA debido a varias razones:
